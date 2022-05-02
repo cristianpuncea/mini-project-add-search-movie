@@ -1,0 +1,1 @@
+Small test project for creating objects, looping through them and retrieving data from them.
